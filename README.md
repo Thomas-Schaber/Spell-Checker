@@ -7,7 +7,7 @@ SpellChecker.java is the main file and should be the file that "runs"
 
 
 
-FrequentWords is a project done around the same time is relevent to the project
+FrequentWords is a project done around the same time and is relevent to the project
 
 
 Utilities is Instructor created and I do not claim ownership of this file.
